@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iiko_plugin_test_task", "iiko_plugin_test_task\iiko_plugin_test_task.csproj", "{24121DF4-8A38-405C-9A4F-4B350C2133CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24121DF4-8A38-405C-9A4F-4B350C2133CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24121DF4-8A38-405C-9A4F-4B350C2133CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24121DF4-8A38-405C-9A4F-4B350C2133CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24121DF4-8A38-405C-9A4F-4B350C2133CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7418FF4-38F4-45E8-AE79-133C9E02A3AC}
+	EndGlobalSection
+EndGlobal
